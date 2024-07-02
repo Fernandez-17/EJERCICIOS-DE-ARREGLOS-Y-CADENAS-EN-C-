@@ -19,7 +19,7 @@ int main() {
 	cout<<"-----------------------------"<<endl;
 	
     string nombre_completo = "Cristian Fernandez";
-    string apellido = "Rene";
+    string apellido = "Mamani";
     
     cout<<"           RESULTADOS        "<<endl;
     cout<<"_____________________________"<<endl;
